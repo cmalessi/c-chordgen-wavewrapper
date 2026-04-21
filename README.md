@@ -1,1 +1,1 @@
-#C chord generator outputs .wav files
+C chord generator outputs .wav files
